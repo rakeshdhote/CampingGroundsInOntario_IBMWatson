@@ -1,6 +1,6 @@
 # Using IBM Watson for Mining Information of Camping Grounds in Ontario
 
-The repo consists of the final project and presentation of using the cognitive computing and natural language processing (NLP) platform the `IBM Watson` for mining the relevant information to the queries regarding the camping grounds in Ontario, Canada. The team project was prepared as a part of the `CKME-130: Introduction to the Data Science` course as a part of the `Data Analytics, Big Data, and Predictive Analytics` certification program at the [Ryerson University](www.ryerson.ca). 
+The repo consists of the final project and presentation of using the cognitive computing and natural language processing (NLP) platform the `IBM Watson` for mining the relevant information to the queries regarding the camping grounds in Ontario, Canada. The team project was prepared as a part of the `CKME-130: Introduction to the Data Science` course in the `Data Analytics, Big Data, and Predictive Analytics` certification program at the [Ryerson University](www.ryerson.ca). 
 
 There are more than 125 government operated parks(or grounds) in the Ontario. Searching  for  relevant  information  on  park  and  tourism websites  can  be  overwhelming  and  time consuming. The objective of this project is to provide a way for obtaining information related to camping in  Ontario  parks  in  a  simpler,  time  efficient  manner  relative  to  a  traditional  website  search.
 
